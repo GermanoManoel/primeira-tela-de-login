@@ -1,0 +1,172 @@
+@charset "UTF-8";
+
+*{
+	margin: 0px;
+	padding: 0px;
+}
+
+  body{
+       background-color:#302e2e;
+	   background-image: url(../img/1c5a6a21a235ef660066650af80e12e4.jpg);
+	   background-position: left center;
+	   background-repeat: no repeat;
+	   max-width: 800px;
+	   min-width: 100%;
+  }
+  
+  main{ 
+	  background-color:#ffffff;
+	  width:850px;
+	  height:450px;
+	  position: absolute;
+	  left: 280px;
+	  top:100px;
+	  border-radius:20px;
+	  background-color: #f8f4f2;
+	  background-image: url(../img/2204194-tecnologia-fundo-design-na-cor-branca-gratis-vetor.jpg);
+	  background-position: raght center;
+	  background-repeat: no repeat;
+	  
+  }
+
+  .form1{
+		 width:300px;
+		 height:30px;
+		 border-radius:20px ;
+		 position:absolute;
+		 top:135px;
+		 left:20px;
+		 border: 1px solid #020807;
+		 padding-left: 1.3em;	 
+				 	 
+  }
+  .form2{
+		 width:300px;
+		 height:30px;
+		 border-radius:20px;
+		 position:absolute;
+		 top:175px;
+		 left:20px;
+		 border: 1px solid #020807;
+		 padding-left: 1.3em;
+		 
+  }
+  .box1 { 
+         position:absolute;
+		 top: 225px;
+		 left:25px;
+		
+		 
+  }
+  .box2 { 
+         position:absolute;
+		 top: 225px;
+		 left:45px;
+		
+  }
+   
+   .botao { 
+		   position:absolute;
+		   top:265px;
+		   left:25px;
+		   color:#ffffff;
+		   background-color:#1888f7;
+		   height:40px;
+		   width:115px;
+		   border-radius:20px;
+		
+   }
+		   
+    h1 {
+        position:absolute;
+	    left:25px;
+	    top:28px;
+   
+   
+   }
+	 
+    h3{ 
+		  font-family: Arial,sans-serif;
+		  font-size:13px;
+		  position:absolute;
+		  top:90px;
+		  left:25px;
+	  }
+	
+	.reset{
+	     position:absolute;
+		 top:263px;
+		 left:155px;
+		 color: #2c8cfa;
+	}
+	  
+	.gite{ 
+		 position:absolute;
+		 top:360px;
+		 left:130px;
+		 width:40px;
+		 height:40px;
+	 }
+	 
+	 .face{
+	        position:absolute;
+			top:360px;
+			left:30px;
+			width:40px;
+			height:40px;
+	 }
+	 
+	 .twitter {
+	           position:absolute;
+			   top:360px;
+			   left:80px;
+			   width:40px;
+			   height:40px;
+	 }
+	           
+	        
+     .others{
+	         position:absolute;
+			 top:310px;
+			 left:32px;
+			 font-size:15px;
+			 color:#2c8cfa;
+			
+			 
+		 } 
+		
+	 .wel1{
+		  position:absolute;
+		  left:400px;
+		  top:120px;
+		  
+	 }
+	 
+	 .if{
+		position:absolute;
+		left:370px;
+		top:175px;
+   }
+   
+   .sign{
+	position:absolute;
+	left:500px;
+	top:240px;
+	border-radius:20px;
+	width:115px;
+	height:40px;
+	background-color:transparent;
+	border: 2px solid blue;
+
+}
+ .quadra{
+	     width:180px;
+		 height:180px;
+		 position:absolute;
+		 left: 690px;
+		 bottom:-15px;
+		 
+}
+
+
+   
